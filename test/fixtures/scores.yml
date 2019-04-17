@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  score: 1
+  wpm: 1
+  accuracy: 1
+  total_words: 1
+  correct_words: 1
+  incorrect_words: 1
+  characters_typed: 1
+  user_id: 1
+
+two:
+  score: 1
+  wpm: 1
+  accuracy: 1
+  total_words: 1
+  correct_words: 1
+  incorrect_words: 1
+  characters_typed: 1
+  user_id: 1
